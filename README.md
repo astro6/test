@@ -1,7 +1,7 @@
 
 #!/bin/bash
 
-# venkateswara.vanka@nex.com - 08/17/2018
+# venkateswara.vanka@test.com - 08/17/2018
 # rsync selective /home folders of selective hosts into jump host dump dir
 # for rhel7 migrations
 
